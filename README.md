@@ -1,4 +1,4 @@
-<bgcolor = #00000>
+
 #  👋 Hi, I’m @Callassie 
 - 👀 I am retired! 👀
 <!---
