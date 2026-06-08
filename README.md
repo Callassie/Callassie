@@ -1,5 +1,6 @@
-- 👋 Hi, I’m @Callassie 
-- 👀 I am just dabbling around.
+<bgcolor = #00000>
+#  👋 Hi, I’m @Callassie 
+- 👀 I am retired! 👀
 <!---
 Callassie/Callassie is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
